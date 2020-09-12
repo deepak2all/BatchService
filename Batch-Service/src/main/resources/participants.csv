@@ -1,0 +1,6 @@
+id, participantId, participantName, participantEmail, participantPhone, status
+1, ENDEAVOUR, ENDEAVOUR ENERGY, endeavour@gmail.com, 111111111, A
+2, AGL, AGL ENERGY, agl@gmail.com, 222222222, P
+3, CITIP, CITI POWER, citip@gmail.com, 333333333, A
+4, SOLARIS, SOLAR POWER, solaris@gmail.com, 444444444, I
+5, EA, ENERGY AUSTRALIA, ea@gmail.com, 555555555, A
