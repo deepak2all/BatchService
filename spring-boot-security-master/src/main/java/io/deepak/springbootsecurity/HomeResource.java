@@ -1,4 +1,4 @@
-package io.javabrains.springbootsecurity;
+package io.deepak.springbootsecurity;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

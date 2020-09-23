@@ -1,4 +1,4 @@
-package io.javabrains.springbootsecurity;
+package io.deepak.springbootsecurity;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
